@@ -4,6 +4,7 @@
   "description": "socket.ioを使ってアプリを作ってみる",
   "main": "index.js",
   "scripts": {
+    "app": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/walk8243/socket-sample/issues"
   },
-  "homepage": "https://github.com/walk8243/socket-sample#readme"
+  "homepage": "https://github.com/walk8243/socket-sample#readme",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
 }
