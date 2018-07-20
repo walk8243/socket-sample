@@ -1,0 +1,19 @@
+{
+  "name": "socket-sample",
+  "version": "1.0.0",
+  "description": "socket.ioを使ってアプリを作ってみる",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walk8243/socket-sample.git"
+  },
+  "author": "walk8243",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walk8243/socket-sample/issues"
+  },
+  "homepage": "https://github.com/walk8243/socket-sample#readme"
+}
