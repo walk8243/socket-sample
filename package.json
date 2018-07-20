@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "app": "node index",
+    "client": "node client",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
